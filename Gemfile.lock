@@ -170,11 +170,11 @@ GEM
       zeitwerk (~> 2.5)
     rainbow (3.1.1)
     rake (13.0.6)
-    react_on_rails (11.3.1)
+    react_on_rails (13.0.1)
       addressable
       connection_pool
       execjs (~> 2.5)
-      rails (>= 3.2)
+      rails (>= 5.2)
       rainbow (~> 3.0)
     regexp_parser (2.2.1)
     reline (0.3.1)
@@ -230,7 +230,7 @@ DEPENDENCIES
   pg (~> 1.1)
   puma (~> 5.0)
   rails (~> 7.0.2, >= 7.0.2.2)
-  react_on_rails (~> 11.3.0)
+  react_on_rails (~> 13.0.1)
   selenium-webdriver
   sprockets-rails
   stimulus-rails
