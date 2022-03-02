@@ -28,7 +28,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 # React setup with Ruby on Rails
-gem 'react_on_rails', '~> 11.3.0'
+gem 'react_on_rails', '~> 13.0.1'
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
